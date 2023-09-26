@@ -1,7 +1,9 @@
 # RTCserver
 i am creating a new server to client push communication method based on webRTC 
 
-
+```
+https://cdn.jsdelivr.net/gh/KTBsomen/RTCserver@main/webrtcServer.js
+```
 use it in you html code like 
 
 ```
@@ -10,6 +12,8 @@ use it in you html code like
 <head>
     <meta charset="UTF-8">
     <script src="./webrtcServer.js"></script>
+<!-- or you can use our CDN----->
+<!--<script src="https://cdn.jsdelivr.net/gh/KTBsomen/RTCserver@main/webrtcServer.js"></script>-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
