@@ -554,7 +554,7 @@ class RTCserver {
      */
     async listen(ondata, onclose, validate) {
       this.peer.on('connection', (conn) => {
-        console.log('Connecting to', conn.peer);
+        console.log('Connected to', conn.peer);
   
         
   
