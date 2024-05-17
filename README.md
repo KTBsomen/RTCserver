@@ -1,6 +1,9 @@
 # RTCserver
-i am creating a new server to client push communication method based on webRTC 
+I am creating a new server to client push communication method based on webRTC  and fcm 
 
+## RTCserver will be used in the browser.
+## RTCclient will be used in nodejs
+this readme is for rtcserver
 ```
 https://cdn.jsdelivr.net/gh/KTBsomen/RTCserver@main/RTCserver/index.js
 ```
