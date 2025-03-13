@@ -245,9 +245,9 @@ class RTCclient {
 class _initDB_ {
   /**
    * @constructor
-   * @param {string[]} [urls=["mongodb+srv://pharmabag2022:VzuzZwpts0mb8sWr@cluster0.8e37j.mongodb.net/pushtest"]] - The MongoDB connection URLs.
+   * @param {string[]} [urls=["mongodb+srv://pxxxxxxxxc:xxxxxxx@cluster0.8e37j.mongodb.net/pushtest"]] - The MongoDB connection URLs.
    */
-  constructor(urls = ["mongodb+srv://pharmabag2022:VzuzZwpts0mb8sWr@cluster0.8e37j.mongodb.net/pushtest"]) {
+  constructor(urls = ["mongodb+srv://pxxxxxxxxc:xxxxxx@cluster0.8e37j.mongodb.net/pushtest"]) {
     const mongodb = new mongoplusplus(urls);
     this.mongodb = mongodb;
     (async () => {
